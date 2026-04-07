@@ -12,7 +12,7 @@ In this lab, we learned how to make clock dividers from two types of counters.
 | Question 3 | Your answers to the question | 25% |
 
 ## Names
-Cadeb Abdersib, Brolen Gumb
+Caleb Anderson, Brolen Gumb
 
 ## Summary
 
